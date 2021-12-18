@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/anime-cast-lookup/static/css/main.de44f446.chunk.css",
+    "main.js": "/anime-cast-lookup/static/js/main.45a4f9c1.chunk.js",
+    "main.js.map": "/anime-cast-lookup/static/js/main.45a4f9c1.chunk.js.map",
+    "runtime-main.js": "/anime-cast-lookup/static/js/runtime-main.9c83ad63.js",
+    "runtime-main.js.map": "/anime-cast-lookup/static/js/runtime-main.9c83ad63.js.map",
+    "static/js/2.cdb8089f.chunk.js": "/anime-cast-lookup/static/js/2.cdb8089f.chunk.js",
+    "static/js/2.cdb8089f.chunk.js.map": "/anime-cast-lookup/static/js/2.cdb8089f.chunk.js.map",
+    "index.html": "/anime-cast-lookup/index.html",
+    "static/css/main.de44f446.chunk.css.map": "/anime-cast-lookup/static/css/main.de44f446.chunk.css.map",
+    "static/js/2.cdb8089f.chunk.js.LICENSE.txt": "/anime-cast-lookup/static/js/2.cdb8089f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c83ad63.js",
+    "static/js/2.cdb8089f.chunk.js",
+    "static/css/main.de44f446.chunk.css",
+    "static/js/main.45a4f9c1.chunk.js"
+  ]
+}
